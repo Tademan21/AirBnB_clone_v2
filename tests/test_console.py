@@ -1,4 +1,5 @@
-t for console module"""
+#!/usr/bin/python3
+"""test for console module"""
 import unittest
 from unittest.mock import patch
 from io import StringIO
