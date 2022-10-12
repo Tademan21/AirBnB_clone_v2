@@ -1,4 +1,5 @@
- module for user tests"""
+#!/usr/bin/python3
+""" a module for user tests"""
 import unittest
 import pep8
 from models.user import User
