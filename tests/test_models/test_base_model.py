@@ -1,4 +1,5 @@
-se model test module"""
+#!/usr/bin/python3
+""" base model test module"""
 from models.base_model import BaseModel
 import unittest
 from datetime import datetime
