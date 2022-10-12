@@ -1,5 +1,4 @@
-
-m models.state import State
+from models.state import State
 from models.engine.db_storage import DBStorage
 import unittest
 import MySQLdb
