@@ -1,4 +1,5 @@
- module to packag web_static files and deploy """
+#!/usr/bin/python3
+""" a module to packag web_static files and deploy """
 import datetime
 import os
 from fabric.api import put, env, run, local
