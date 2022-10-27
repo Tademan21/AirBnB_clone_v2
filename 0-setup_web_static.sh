@@ -1,4 +1,5 @@
-et up the NGINX config for web_static
+#!/usr/bin/env bash
+# set up the NGINX config for web_static
 # install nginx
 sudo apt-get -y update
 sudo apt-get -y install nginx
